@@ -19,9 +19,14 @@ body {
   margin-top : 10px;
   background-color:lightgoldenrodyellow;
   border : dashed;
+  border-color:antiquewhite;
 }
 h1{
   background-color : antiquewhite;
+  border: solid;
+  border-top:0;
+  border-left:0;
+  border-right:0;
 }
 #aquamarine{
   background-color:aquamarine;
@@ -31,10 +36,12 @@ h1{
   margin-top : 10px;
   background-color:lightblue;
   border: dashed;
+  border-color:antiquewhite;
 }
 
 .technical_skills{
   margin-top : 10px;
   background-color:lightgray;
   border: dashed;
+  border-color:antiquewhite;
 }
